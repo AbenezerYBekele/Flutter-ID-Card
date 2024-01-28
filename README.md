@@ -1,5 +1,6 @@
 # Flutter-ID-Card
 my Flutter Profile App
+
 Welcome to my Flutter Profile App! I'm Abenezer Y Bekele, a highly skilled and passionate Flutter Developer, and this app serves as a digital showcase of my professional profile and portfolio.
 
 When you launch the app, you'll be greeted by a sleek and elegant interface designed to leave a lasting impression. The carefully chosen teal-themed design and captivating typography create a modern and professional look, reflecting my commitment to excellence.
@@ -15,3 +16,6 @@ I take great pride in this Flutter Profile App, which not only represents my ski
 Thank you for exploring my Flutter Profile App, and I look forward to connecting with you soon!"
 
 Feel free to personalize and modify the description to align with your own experiences, skills, and preferences.
+
+License
+This project is licensed under the Abenezer Y Bekele License. See the LICENSE file for more details.
