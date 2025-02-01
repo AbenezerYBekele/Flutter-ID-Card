@@ -28,4 +28,4 @@ Feel free to explore my Flutter Profile App, and I look forward to connecting wi
 
 ## License
 
-This project is licensed under the Abenezer Y Bekele License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the Abenezer Y Bekele License.
